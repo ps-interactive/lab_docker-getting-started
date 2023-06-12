@@ -1,9 +1,9 @@
 ---
 name: IT Ops Hands-on Lab Review
 about: Pluralsight hands-on labs review form
-title: 'Pluralsight hands-on lab review: [lab title]'
+title: 'Pluralsight IT Ops hands-on lab review: [lab title]'
 labels: lab-review
-assignees: ''
+assignees: timothy-warner
 
 ---
 
@@ -15,8 +15,9 @@ assignees: ''
 - Author: 
 - Reviewer: 
 
-## Issues
+## Issue Description
 
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
+[Enter it here]
+
+- [ ] Author to fix 
+- [ ] Editor to fix
